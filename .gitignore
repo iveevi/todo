@@ -1,0 +1,5 @@
+*.egg-info/
+__pycache__
+build/
+setup.py
+tasks.py
